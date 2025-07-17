@@ -51977,11 +51977,7 @@ A.GP.prototype={}
 A.q1.prototype={
 aq(){return new A.DC()}}
 A.DC.prototype={
-<<<<<<< HEAD
 O(a){var s=null,r=A.a2O("M-Budget"),q=A.IX(A.a2O("We will build a budget app soon! for now this is our website"),s,s),p=A.b([A.a1u(A.MD(B.y_,s),"HomePage"),A.a1u(A.MD(B.y0,s),"Planned Expenses"),A.a1u(A.MD(B.y1,s),"Past Expenses")],t.wr)
-=======
-O(a){var s=null,r=A.a2O("M-Budget"),q=A.IX(A.a2O("We will build a budget app soon! for now this is our website"),s,s),p=A.b([A.a1u(A.MD(B.y_,s),"Home"),A.a1u(A.MD(B.y0,s),"Planned Expenses"),A.a1u(A.MD(B.y1,s),"Past Expenses")],t.wr)
->>>>>>> 6b503dfed8a67801af85a678bb2737a1998d5763
 return new A.rk(new A.o5(r,B.Bt,!0,new A.EM(s,s,1/0,56),s),q,new A.od(p,s,s),s)}}
 A.p_.prototype={
 ae(a){var s,r,q=this.x,p=q.j(0,a)
